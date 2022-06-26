@@ -1,0 +1,22 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: rgb(30, 30, 30);
+}
+h1{
+    color: white;
+    font-family: Orbite;
+    src: url(font/Orbite-Regular.ttf);
+}
+.fsa{
+    background: black;
+    color: white;
+    border-radius: 10px;
+}
+.film,
+.serie,
+.anime{
+    background: black;
+    color: white;
+}

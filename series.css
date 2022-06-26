@@ -1,0 +1,48 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: rgb(30, 30, 30);
+}
+button{
+    background: black;
+}
+h1{
+    color: white;
+    font-family: Orbite;
+    src: url(font/Orbite-Regular.ttf);
+}
+.halo{
+    color: green;
+    font-family: Halo;
+    src: url(halo/font/Halo.ttf);
+}
+.strange{
+    color: red;
+    font-family: BENGUIAT;
+    src: url(strangerthings/font/BENGUIAT.TTF);
+}
+.cup{
+    color: yellow;
+    font-family: Madness Hyperactive;
+    src: url(font/Madness\ Hyperactive.otf);
+}
+.squid{
+    color: pink;
+    font-family: GameOfSquids;
+    src: url(squidgame/font/GameOfSquids-1GMVL.ttf);
+}
+.arcane{
+    color: goldenrod;
+    font-family: arcane-nine;
+    src: url(font/arcane-nine.otf);
+}
+.bee{
+    color: yellow;
+}
+.job{
+    color: white;
+}
+.flambeau{
+    color: gold;
+}

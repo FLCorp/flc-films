@@ -1,0 +1,14 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: rgb(30, 30, 30);
+}
+a{
+    color: pink;
+    font-family: GameOfSquids;
+    src: url(font/GameOfSquids-1GMVL.ttf);
+}
+button{
+    background: black;
+}
