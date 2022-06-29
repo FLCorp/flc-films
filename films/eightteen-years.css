@@ -1,0 +1,17 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: red;
+}
+h1{
+    color: darkred;
+}
+.continue{
+    color: red;
+    background-color: darkred;
+}
+.back{
+    color: red;
+    background-color: green;
+}
