@@ -1,0 +1,47 @@
+* {
+    text-decoration: none;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background: rgb(30, 30, 30);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(30, 30, 30);
+}
+h1{
+    color: white;
+    margin: 0;
+    padding: 20px 0;
+    font-family: Orbite;
+    src: url(font/Orbite-Regular.ttf);
+}
+button,
+.news{
+    background: rgb(63, 161, 66);
+    color: white;
+    font-family: Courier;
+    display: block;
+    padding: 5px 10px;
+    margin: 0 auto;
+}
+img{
+    display: block;
+    padding: 5px 10px;
+    margin: 0 auto; 
+}
+.fsa,
+.news{
+    background: rgb(63, 161, 66);
+    color: white;
+    border-radius: 10px;
+}
+.film,
+.serie,
+.anime{
+    background: rgb(63, 161, 66);
+    color: white;
+    font-family: Courier;
+}
+.beta{
+    font-family: Courier;
+}

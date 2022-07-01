@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: rgb(30, 30, 30);
+}
+a,
+h1{
+    color: orange;
+    font-family: njnaruto;
+    src: url(font/njnaruto.ttf)
+}
+button{
+    background-color: black;
+}

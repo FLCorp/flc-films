@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+}
+h1,
+a{
+    color: white;
+    font-family: Orbite;
+    src: url(font/Orbite-Regular.ttf);
+}
+body{
+    background-color: rgb(30, 30, 30);
+}
+button{
+    background-color: black;
+}
