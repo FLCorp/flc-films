@@ -1,0 +1,66 @@
+*{
+    text-decoration: none;
+}
+body {
+    width: 600px;
+    margin: 0 auto;
+    background: rgb(30, 30, 30);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(30, 30, 30);
+}
+button{
+    background-color: black;
+    display: block;
+    padding: 5px 10px;
+    margin: 0 auto;
+}
+h1{
+    color: white;
+    font-family: Orbite;
+    src: url(font/Orbite-Regular.ttf);
+}
+.halo{
+    color: green;
+    font-family: Halo;
+    src: url(halo/font/Halo.ttf);
+}
+.strange{
+    color: red;
+    font-family: BENGUIAT;
+    src: url(strangerthings/font/BENGUIAT.TTF);
+}
+.cup{
+    color: yellow;
+    font-family: Madness Hyperactive;
+    src: url(font/Madness\ Hyperactive.otf);
+}
+.squid{
+    color: pink;
+    font-family: GameOfSquids;
+    src: url(squidgame/font/GameOfSquids-1GMVL.ttf);
+}
+.arcane{
+    color: goldenrod;
+    font-family: arcane-nine;
+    src: url(font/arcane-nine.otf);
+}
+.bee{
+    color: yellow;
+}
+.job{
+    color: white;
+}
+.flambeau{
+    color: gold;
+}
+.bad{
+    color: yellow;
+    font-family: Heart Breaking Bad;
+    src: url(breakingbad/font/Heart\ Breaking\ Bad.otf);
+}
+.rick{
+    color: cyan;
+    text-shadow: 1px 1px 1px lime;
+    font-family: Random Boys;
+    src: url(font/RandomBoys.otf);
+}

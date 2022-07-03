@@ -1,0 +1,13 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: rgb(30, 30, 30);
+}
+a{
+    color: black;
+}
+button{
+    background-color: orange;
+    color: orange;
+}

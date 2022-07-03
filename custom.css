@@ -1,0 +1,67 @@
+* {
+    text-decoration: none;
+}
+body{
+    
+    margin: 0 auto;
+    background: rgb(30, 30, 30);
+    padding: 0 20px 20px 20px;
+    border: 5px solid rgb(30, 30, 30);
+}
+h1{
+    color: rgb(120, 9, 164);
+    margin: 0;
+    padding: 20px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.news{
+    background: rgb(63, 161, 66);
+    color: white;
+    font-family: Courier;
+    display: block;
+    padding: 5px 10px;
+    margin: 0 auto;
+}
+button,
+img{
+    display: block;
+    padding: 5px 10px;
+    margin: 0 auto; 
+}
+input{
+    color: rgb(120, 9, 164)
+}
+canvas{
+    border-radius: 50%
+}
+.fsa,
+.news{
+    background: rgb(120, 9, 164);
+    color: white;
+    border-radius: 10px;
+}
+.film,
+.serie,
+.anime{
+    background: rgb(120, 9, 164);
+    color: white;
+    font-family: Courier;
+}
+.beta{
+    min-height: 2.8em;
+    display: flex;
+    list-style: none;
+    overflow: hidden;
+    position: fixed;
+    justify-content: center;
+    margin: 0;
+    padding: 5px 10px;
+}
+.rick{
+    background-color: rgb(120, 9, 164);
+    border-radius: 10px;
+    font-family: Random Boys;
+    src: url(rick&morty/font/RandomBoys.otf);
+    color: cyan;
+    text-shadow: 1px 1px 1px lime;
+}
