@@ -1,0 +1,22 @@
+*{
+    text-decoration: none;
+}
+body{
+    background: rgb(30, 30, 30);
+}
+a{
+    color: cyan;
+    text-shadow: 1px 1px 1px lime;
+    font-family: Random Boys;
+    src: url(font/RandomBoys.otf);
+}
+button{
+    background-color: black;
+    display: block;
+    padding: 5px 10px;
+    margin: 0 auto;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
